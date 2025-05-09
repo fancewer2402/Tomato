@@ -1,4 +1,18 @@
 # Tomato
+Project Duration: August 2024 – November 2024.
+Team Members:
+- Trần Thị Thùy Trang (Leader)
+- Lê Thị Phương Thảo
+- Phạm Ngọc Trung
+- Dương Ngọc Phú
+- Nguyễn Thị Khánh Linh
+- Nguyễn Châu My
+- Nguyễn Thị Kim Phượng
+- Nguyễn Anh Tú
+- Chế Mậu Hành
+- Nguyễn Phương Nga
+- Nguyễn Lê Minh Phương
+
 This document is at the project level, covering the entire shrimp farming management system—from pond environment monitoring, shrimp data management, to farming process optimization and decision support with automatic reports and alerts. The system supports managers and staff in their work.
 
 The functions in the system used by the Manager user group include:
