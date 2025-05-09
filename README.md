@@ -1,5 +1,6 @@
 # Tomato
 Project Duration: August 2024 – November 2024.
+
 Team Members:
 - Trần Thị Thùy Trang (Leader)
 - Lê Thị Phương Thảo
