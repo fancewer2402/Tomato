@@ -1,4 +1,6 @@
 # Tomato
+Project Name: Tomato - Water Quality Management for Shrimp Farming Application.
+
 Project Duration: August 2024 – November 2024.
 
 Team Members:
